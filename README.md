@@ -12,3 +12,5 @@
 <img src="https://github.com/DariaRahman/RecommendationSite/assets/94872418/ff23e5c6-9136-4418-99ba-a22b374f840d" width="400"/>  
 <br>
 <img src="https://github.com/DariaRahman/RecommendationSite/assets/94872418/a3efa063-d47e-4892-b777-21831ac88515" width="400"/>
+<br>
+<img src="https://github.com/DariaRahman/RecommendationSite/assets/94872418/413ce201-c14c-4327-8a43-10341eedd90b" width="400"/>
