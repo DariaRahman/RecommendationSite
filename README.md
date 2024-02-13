@@ -1,4 +1,4 @@
-# Сайт рекоммендаций
+# Сайт рекомендаций
 
 <a href="http://www.oracle.com/technetwork/java/javase/overview/index.html"><img src="https://img.shields.io/badge/language-java%208.0-orange.svg"></a>
 <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/platform-jetbrains-66FF99.svg"></a>
